@@ -18,6 +18,14 @@ body {
    padding: 5px;
 }
 
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 5px;
+}
+
 .fa-brands {
     margin-right: 5px;
 }
